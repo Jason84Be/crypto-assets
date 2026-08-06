@@ -1,0 +1,17 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "description": "A decentralized digital asset issued on the Solana blockchain, designed for fast, secure, and efficient on-chain transfers.",
+  "image": "https://Jason84Be.github.io/crypto-assets/solana/logo.png",
+  "external_url": "https://github.com/Jason84Be/crypto-assets",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://Jason84Be.github.io/crypto-assets/solana/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
